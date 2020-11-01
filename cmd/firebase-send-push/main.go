@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/kcsanad/FirebaseSendPushOpenFaas/internal/handlers"
+	"github.com/kcsanad/FirebaseSendPushOpenFaas/pkg/handlers"
 )
 
 var (
